@@ -8,6 +8,6 @@ R. Baeza-Yates and B. Ribeiro-Neto, Modern Information Retrieval: The Concepts a
 S. Büttcher, C. L. A. Clarke, and G. V. Cormack, Information Retrieval: Implementing and Evaluating Search Engines, MIT Press, 2010.</br>
 D. Easley and J. Kleinberg, Networks, Crowds, and Markets, Cambridge University Press, 2010.</br>
 D. Jannach, et al., Recommender Systems: An Introduction, Cambridge University Press, 2010.</br>
-B. Liu, Web Data Mining: Exploring Hyperlinks, Contents, and Usage Da- ta, 2nd Ed., Springer, 2011.</br>
-C. D. Manning, P. Raghavan, and H. Schütze, An Introduction to Infor- mation Retrieval, Cambridge University Press, 2008.</br>
-A. N. Srivastava and M. Sahami, (Eds.) Text Mining: Classification, Clus- tering, and Applications, CRC Press, 2009.</br>
+B. Liu, Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data, 2nd Ed., Springer, 2011.</br>
+C. D. Manning, P. Raghavan, and H. Schütze, An Introduction to Information Retrieval, Cambridge University Press, 2008.</br>
+A. N. Srivastava and M. Sahami, (Eds.) Text Mining: Classification, Clustering, and Applications, CRC Press, 2009.</br>
