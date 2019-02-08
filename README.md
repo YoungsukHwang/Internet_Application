@@ -12,7 +12,6 @@ B. Liu, Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data, 2nd Ed.
 C. D. Manning, P. Raghavan, and H. Schütze, An Introduction to Information Retrieval, Cambridge University Press, 2008.</br>
 A. N. Srivastava and M. Sahami, (Eds.) Text Mining: Classification, Clustering, and Applications, CRC Press, 2009.</br>
 
-HWs</br>
 
 HW1.
 1) Print out web text content from Rottentomattoes.com using Jsoup.
@@ -35,5 +34,3 @@ HW5 On MovieReview data,
 2) Perform sentiment classification using Naïve Bayes classifier.
 3) Perform sentiment classification using SVM classifier.
 4) Perform sentiment classification using K-means clustering.
-
-
