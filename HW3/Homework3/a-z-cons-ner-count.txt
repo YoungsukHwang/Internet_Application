@@ -1,0 +1,2 @@
+This is the total counts
+ ORGANIZATION : 67 PERSON : 108 LOCATION : 66 DATE : 39 MONEY : 1 PERCENT : 0 TIME : 0
